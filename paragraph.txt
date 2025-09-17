@@ -1,0 +1,4 @@
+food delivery app acts as a digital marketplace and logistics platform, connecting customers with restaurants to order food for doorstep delivery,
+offering convenience through features like search filters, menus, real-time tracking, and multiple payment options.
+These apps work through a three-part system involving a customer app, a restaurant order management app, and a c
+ourier delivery app, with revenue generated through commissions and fees
